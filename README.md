@@ -1,6 +1,10 @@
 # Dockerised .net local dev
 
-Simple bootstrap project to run/build a .net project via docker
+Simple bootstrap project to run/build a .net project via docker.
+
+Locally runs a `donet watch run` command, mounts the current directory as a volume in docker and exposes port 800 to the host machine.
+
+Build produces a local docker image complete with application and dependencies required to run application.
 
 ## Todo
 
