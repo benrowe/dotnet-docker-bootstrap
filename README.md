@@ -2,6 +2,11 @@
 
 Simple bootstrap project to run/build a .net project via docker
 
+## Todo
+
+- [ ] Complete `build` process
+- [ ] Fix local port expose
+
 ## How to use
 
 ### Local Dev
